@@ -1,0 +1,18 @@
+body{
+    margin: 40px auto;
+    max-width: 650px;
+}
+
+/* Asterisk * refers to all the element in the code */
+
+*{
+    background-color: #222;
+    color: aliceblue;
+    /* font-family: 'Edu TAS Beginner', cursive; */
+}
+
+/* a is for all anchors */
+
+a{
+    color: rgb(20, 224, 231);
+}
